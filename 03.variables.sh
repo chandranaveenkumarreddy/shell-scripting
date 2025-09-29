@@ -1,7 +1,7 @@
 #!/bin/bash
 
 PERSON1=ramesh
-PERSON2=rajesh #the key value is caps and no space between key and value
+PERSON2=rajesh #the key value is caps and no space between before and after equal
 
 echo "$PERSON1: hi $PERSON2"
 echo "$PERSON2:: hi $PERSON1"
